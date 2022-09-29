@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/zeli/repos/tb-common-utils/tbsys/src",
+                "C:/Users/zeli/repos/tb-common-utils/tbnet/src"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.17763.0"
+        }
+    ],
+    "version": 4
+}
